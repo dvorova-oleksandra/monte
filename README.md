@@ -1,8 +1,8 @@
 # monte
-## Main task: finding the  square of ​​a figure by the Monte-Carlo method
+### Main task: finding the  square of ​​a figure by the Monte-Carlo method
 
 
-## Another info: 
+### Another info: 
 
 Plot the graph of the function on the given interval [0, 3] and 50 dots.
 
